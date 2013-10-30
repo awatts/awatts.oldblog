@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://awatts.github.io/sitemap.xml 
